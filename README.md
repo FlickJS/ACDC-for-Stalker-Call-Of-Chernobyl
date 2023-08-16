@@ -1,4 +1,4 @@
-# Foobar
+# ACDC for Stalker Call Of Chernobyl fixed by Flick
 
 ACDC 1.38 tuned for using with CoC's all.spawn. Creat a-life, smart terrain or unique stalker and more...
 
